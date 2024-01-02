@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-Token = 'OTg5ODg3ODIwMTY2NDc5ODgz.GUPR1c.VN8cDjXERI1KEbsK5eHp8vc0LRtUuKiTuJgWcs'
+Token = ''
 
 bot = commands.Bot(command_prefix="=")
 @bot.event
