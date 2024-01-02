@@ -3,7 +3,7 @@ from discord.ext import commands
 import youtube_dl
 import os
 
-TOKEN = 'OTg5ODg3ODIwMTY2NDc5ODgz.GUPR1c.VN8cDjXERI1KEbsK5eHp8vc0LRtUuKiTuJgWcs'
+TOKEN = ''
 
 client = commands.Bot(command_prefix="!")
 
