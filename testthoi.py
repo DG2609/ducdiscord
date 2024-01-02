@@ -8,7 +8,7 @@ from discord.ext import commands
 # Suppress noise about console usage from errors
 youtube_dl.utils.bug_reports_message = lambda: ''
 
-Token = 'OTg5ODg3ODIwMTY2NDc5ODgz.GUPR1c.VN8cDjXERI1KEbsK5eHp8vc0LRtUuKiTuJgWcs'
+Token = ''
 
 
 ytdl_format_options = {
